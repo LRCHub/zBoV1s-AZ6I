@@ -1,0 +1,80 @@
+{
+  "version": 1,
+  "base_track": "オルターエゴ",
+  "base_artist": "DUSTCELL",
+  "createdAt": "2026-01-13T21:18:21.516053Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "オルターエゴ (feat. 小豆沢こはね&白石杏&東雲彰人&青柳冬弥&初音ミク)",
+      "artist": "Vivid BAD SQUAD",
+      "has_synced": true,
+      "path": "select/01_オルターエゴ_(feat._小豆沢こはね&白石杏&東雲彰人&青柳冬弥&初音ミク)_Vivid_BAD_SQUAD.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "オルターエゴ",
+      "artist": "DUSTCELL",
+      "has_synced": true,
+      "path": "select/02_オルターエゴ_DUSTCELL.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "オルターエゴ",
+      "artist": "Vivid BAD SQUAD",
+      "has_synced": true,
+      "path": "select/03_オルターエゴ_Vivid_BAD_SQUAD.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "オルターエゴ",
+      "artist": "Misumi",
+      "has_synced": true,
+      "path": "select/04_オルターエゴ_Misumi.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "オルターエゴ",
+      "artist": "Vivid BAD SQUAD feat. 小豆沢こはね&白石杏&東雲彰人&青柳冬弥&初音ミク",
+      "has_synced": true,
+      "path": "select/05_オルターエゴ_Vivid_BAD_SQUAD_feat._小豆沢こはね&白石杏&東雲彰人&青柳冬弥&初音ミク.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "オルターエゴ - Alter Ego (feat. 小豆沢こはね&白石杏&東雲彰人&青柳冬弥&初音ミク)",
+      "artist": "Vivid BAD SQUAD",
+      "has_synced": true,
+      "path": "select/06_オルターエゴ_-_Alter_Ego_(feat._小豆沢こはね&白石杏&東雲彰人&青柳冬弥&初音ミク)_Vivid_BAD_SQUAD.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "オルターエゴ (feat. 小豆沢こはね & 白石杏 & 東雲彰人 & 青柳冬弥 &...",
+      "artist": "Vivid BAD SQUAD",
+      "has_synced": true,
+      "path": "select/07_オルターエゴ_(feat._小豆沢こはね_&_白石杏_&_東雲彰人_&_青柳冬弥_&..._Vivid_BAD_SQUAD.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "オルターエゴ - Alter Ego",
+      "artist": "Misumi",
+      "has_synced": true,
+      "path": "select/08_オルターエゴ_-_Alter_Ego_Misumi.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "オルターエゴ",
+      "artist": "DUSTCELL",
+      "has_synced": false,
+      "path": "select/pl_01_オルターエゴ_DUSTCELL.txt"
+    }
+  ]
+}
